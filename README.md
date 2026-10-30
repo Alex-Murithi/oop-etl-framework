@@ -550,39 +550,6 @@ Total pipelines: 2 | Succeeded: 2 | Failed: 0
 
 ---
 
-# Setup Instructions
-
-## Clone Repository
-
-```bash
-git clone <repository-url>
-```
-
-## Navigate Into Project
-
-```bash
-cd day4-oop-etl
-```
-
-## Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-## Activate Environment
-
-### Git Bash
-
-```bash
-source venv/Scripts/activate
-```
-
-### PowerShell
-
-```powershell
-.\venv\Scripts\Activate.ps1
-```
 
 ## Install Dependencies
 
